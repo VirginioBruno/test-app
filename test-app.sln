@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A4179194-6AA0-4E7F-84DA-4DCC2919CCB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMvcApp", "src\TestMvcApp\TestMvcApp.csproj", "{43E2C66E-DBF7-43E9-861D-D838CA2E2939}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +14,14 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43E2C66E-DBF7-43E9-861D-D838CA2E2939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E2C66E-DBF7-43E9-861D-D838CA2E2939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E2C66E-DBF7-43E9-861D-D838CA2E2939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E2C66E-DBF7-43E9-861D-D838CA2E2939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{43E2C66E-DBF7-43E9-861D-D838CA2E2939} = {A4179194-6AA0-4E7F-84DA-4DCC2919CCB0}
 	EndGlobalSection
 EndGlobal
