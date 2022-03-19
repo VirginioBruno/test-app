@@ -1,0 +1,7 @@
+C:\projects\testwebapp\src\TestMvcApp\bin\Debug\net6.0\publish\TestMvcApp.exe
+C:\projects\testwebapp\src\TestMvcApp\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\projects\testwebapp\src\TestMvcApp\bin\Debug\net6.0\publish\appsettings.json
+C:\projects\testwebapp\src\TestMvcApp\bin\Debug\net6.0\publish\TestMvcApp.dll
+C:\projects\testwebapp\src\TestMvcApp\bin\Debug\net6.0\publish\TestMvcApp.deps.json
+C:\projects\testwebapp\src\TestMvcApp\bin\Debug\net6.0\publish\TestMvcApp.runtimeconfig.json
+C:\projects\testwebapp\src\TestMvcApp\bin\Debug\net6.0\publish\TestMvcApp.pdb
